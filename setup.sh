@@ -11,3 +11,6 @@ brew bundle --file=./Brewfile
 # Setup Git
 git config --global user.email "sajayprakashk@gmail.com"
 git config --global user.name "Sajay Prakash"
+
+# Setup fnm
+echo 'eval "$(fnm env --use-on-cd --shell zsh)"' >> ~/.zprofile
