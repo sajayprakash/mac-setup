@@ -1,3 +1,5 @@
+tap "anomalyco/tap" # OpenCode
+
 # CLI Tools
 brew "fzf"
 brew "fd"
@@ -11,6 +13,7 @@ brew "lazygit"
 brew "node"
 brew "fnm"
 brew "pnpm"
+brew "anomalyco/tap/opencode"
 
 # GUI Applications
 cask "visual-studio-code"
