@@ -5,6 +5,7 @@ brew "ripgrep"
 brew "neovim"
 brew "tmux"
 brew "gh"
+brew "lazygit"
 
 # Languages & Stuff
 brew "node"
